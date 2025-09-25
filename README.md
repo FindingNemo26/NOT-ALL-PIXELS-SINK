@@ -1,8 +1,5 @@
 # NOT ALL PIXELS SINK: PHASE-GUIDED REPRESENTATION LEARNING FOR UNDERWATER IMAGE RESTORATION
 
-
-# ⚙️ Usage
-
 ## Training
 You may download the dataset first, and then specify TRAIN_DIR, VAL_DIR and SAVE_DIR in the section TRAINING in `config.yml`.
 
